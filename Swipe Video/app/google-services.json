@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "456572355493",
+    "firebase_url": "https://cs460-46bbc-default-rtdb.firebaseio.com",
+    "project_id": "cs460-46bbc",
+    "storage_bucket": "cs460-46bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456572355493:android:24765cd48bdb12190e1e4c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGY7oHmkzr9-XuMuVhHTiqFu3eFc5-9x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456572355493:android:6344bf572ad485840e1e4c",
+        "android_client_info": {
+          "package_name": "com.example.swipevideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGY7oHmkzr9-XuMuVhHTiqFu3eFc5-9x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
